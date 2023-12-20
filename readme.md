@@ -21,6 +21,8 @@ The emojis returned seem to fit the sentences quite well!
 + Love your dishes - best cake ever! 🍴
 + I miss you. When are you coming back? ❤️
 
+(Please note that the dataset is excluded from the repo due to file size limits.)
+
 The LSTM architecture is as follows (image from the Coursera assignment):
 
 ![emojifier-v2.png](images%2Femojifier-v2.png)
